@@ -1,0 +1,43 @@
+## Build outputs
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vscode/
+.idea/
+
+## OS generated
+.DS_Store
+Thumbs.db
+
+## Rider
+*.sln.iml
+
+## Logs
+*.log
+
+## VS Code
+.vscode/
+
+## VS for Mac
+*.userprefs
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Node modules (if using npm or yarn for assets)
+node_modules/
+wwwroot/lib/
+
+## Published WebAssembly output
+wwwroot/dist/
+dist/
+release/
+
+## Coverage
+co
