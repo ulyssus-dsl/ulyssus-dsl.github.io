@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ulyssus-dsl.github.io",
   "resources": {
-    "hash": "sha256-+v4O6/0n3ZExJuVxhNdDD5w7Af7XADmzho9Ynj5hxlk=",
+    "hash": "sha256-HujKWK+FhnW27ANdDneSlANQC18WfDuStheaYIeI8/s=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.l5bze06whq.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-jNLtN4vF7WK8ULY8kgUgqIHfQsaO6gsbxvw9apgmjn4=",
       "System.Text.Json.wasm": "sha256-C9LOYlhMRY8IBa2hzKWgxb9MYFa/B6HJ1Nk5WvclMb4=",
       "System.Text.RegularExpressions.wasm": "sha256-HcZuePR4sy2OeN6Nt9pFlweGqXET8/4km86NaeWHBCs=",
-      "ulyssus-dsl.github.io.wasm": "sha256-KGg9zuHdpYy8nLvBjRDF9fkkTlLf1ozatQW4QurktVo="
+      "ulyssus-dsl.github.io.wasm": "sha256-T09Z2pdsoDRtBue5QEBQvZo5N14652clC81Mt1de67k="
     }
   },
   "cacheBootResources": true,
